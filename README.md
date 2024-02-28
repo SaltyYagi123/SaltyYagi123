@@ -1,4 +1,4 @@
-### Hi there 👋
+Hey! I like to create solutions to really annoying problems.
 
 <!--
 **SaltyYagi123/SaltyYagi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
