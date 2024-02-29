@@ -1,4 +1,4 @@
-Hey! I like to create solutions to really annoying problems.
+Hey! I like to create solutions to really annoying problems. Oh, and I'm currently learning LangChain :)
 
 <!--
 **SaltyYagi123/SaltyYagi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
