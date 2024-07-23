@@ -27,9 +27,8 @@
   <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> 
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-- 📊 &nbsp; Data Analytics and Simulations:
+- 📊 &nbsp; Data Analytics:
   <img src="https://img.shields.io/badge/sql-%2307405e.svg?&style=for-the-badge&logo=sql&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MATLAB-%23E16737.svg?&style=for-the-badge&logo=matlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/pySpark-%23E25A1C.svg?&style=for-the-badge&logo=apache%20spark&logoColor=white"/>
 
 - 🌐 &nbsp; Web Dev:
@@ -54,16 +53,10 @@
   <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> 
   <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 
-- 🔬 &nbsp; Specialized:
+- 🔬 &nbsp; Other tools:
   <img src="https://img.shields.io/badge/LTspice-%23A8B9CC.svg?&style=for-the-badge&logo=analog-devices&logoColor=black"/> 
   <img src="https://img.shields.io/badge/Quartus%20II-%2300529B.svg?&style=for-the-badge&logo=intel&logoColor=white"/>
   <img src="https://img.shields.io/badge/VHDL-%23008080.svg?&style=for-the-badge&logo=vhdl&logoColor=white"/>
-
-<br/>
-
-<a href="https://github.com/yagoTobi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagoTobi&theme=buefy&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagoTobi&theme=buefy&layout=compact&langs_count=8" />
-</a>
+  <img src="https://img.shields.io/badge/MATLAB-%23E16737.svg?&style=for-the-badge&logo=matlab&logoColor=white"/>
 
 <br/>
