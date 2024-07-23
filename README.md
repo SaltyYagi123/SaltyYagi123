@@ -1,4 +1,4 @@
-<h2> Hi! I'm Yago Tobio 👋</h2>
+<h2> Hi! I'm Yago Tobio 👋 - I like to solve really annoying problems</h2>
 
 🚀 Passionate about Entrepreneurship, Product Development, Data Science & AI | 🎓 Computer Engineering & Business Analytics Graduate
 
