@@ -10,6 +10,14 @@
 - 💼 &nbsp; Previous roles: Sales Intelligence & Strategy @ Salesforce; Data Engineer @ VMLYR
 - 🏄‍♂️ &nbsp; When I'm not coding: Skateboarding, reading, travelling.
 
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://yago-tobio.notion.site"><img alt="Website" src="https://img.shields.io/badge/Website-yago--tobio.notion.site-blue?style=for-the-badge&logo=notion"></a>
+<a href="https://www.linkedin.com/in/yago-tobio-souto/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-yago--tobio--souto-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:yagotobiosouto@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yagotobiosouto@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
+</p>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp; Languages:
@@ -59,11 +67,3 @@
 </a>
 
 <br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://yago-tobio.notion.site"><img alt="Website" src="https://img.shields.io/badge/Website-yago--tobio.notion.site-blue?style=for-the-badge&logo=notion"></a>
-<a href="https://www.linkedin.com/in/yago-tobio-souto/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-yago--tobio--souto-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:yagotobiosouto@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yagotobiosouto@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
-</p>
