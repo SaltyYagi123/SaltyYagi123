@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> 
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-- 📊 &nbsp; Data & AI:
+- 📊 &nbsp; Data Analytics and Simulations:
   <img src="https://img.shields.io/badge/sql-%2307405e.svg?&style=for-the-badge&logo=sql&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MATLAB-%23E16737.svg?&style=for-the-badge&logo=matlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/pySpark-%23E25A1C.svg?&style=for-the-badge&logo=apache%20spark&logoColor=white"/>
